@@ -1,5 +1,7 @@
 # todolist
-
+```
+Création d'une Todolist en vueJS en utilisant vueX 
+```
 ## Project setup
 ```
 npm install
@@ -12,7 +14,7 @@ npm run serve
 
 ### Compiles and minifies for production
 ```
-npm run build
+npm run 
 ```
 
 ### Lints and fixes files
